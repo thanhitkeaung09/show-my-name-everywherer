@@ -1,0 +1,23 @@
+{
+  "name": "show-my-name",
+  "version": "1.0.0",
+  "description": "showing my name",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thanhitkeaung09/show-my-name-everywherer.git"
+  },
+  "keywords": [
+    "thanhtikename"
+  ],
+  "author": "than htike aung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhitkeaung09/show-my-name-everywherer/issues"
+  },
+  "homepage": "https://github.com/thanhitkeaung09/show-my-name-everywherer#readme"
+}
